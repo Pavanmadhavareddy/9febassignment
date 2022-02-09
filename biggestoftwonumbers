@@ -1,0 +1,11 @@
+n1=int(input('enter the first number!:'))
+n2=int(input('enter the second number!:'))
+if n1>n2:
+    print(n1,'is biggest number!')
+else:
+    print(n2,'is biggest number!')
+    
+    output
+    enter the first number!:3
+enter the second number!:2
+3 is biggest number!
